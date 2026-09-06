@@ -1,0 +1,31 @@
+sentence1,sentence2,label
+The pillow is fluffy and soft.,The feather is light and delicate.,0.9
+The rock is hard and solid.,The steel bar is rigid and unbending.,0.9
+The cotton ball is gentle to the touch.,The velvet fabric feels smooth and soft.,0.85
+The diamond is the hardest mineral.,The granite boulder is incredibly tough.,0.9
+The marshmallow is squishy and sweet.,The sponge is soft and absorbent.,0.8
+The iron gate is heavy and durable.,The concrete wall is sturdy and rough.,0.85
+The cloud looks like a soft puff of smoke.,The wool sweater is cozy and warm.,0.8
+The brick is rough and abrasive.,The metal pipe is cold and hard.,0.85
+The plush toy is cuddly and soft.,The fur coat is silky and smooth.,0.9
+The glass window is brittle and hard.,The wooden plank is solid and stiff.,0.8
+The pillow is fluffy and soft.,The rock is hard and solid.,0.1
+The feather is light and delicate.,The steel bar is rigid and unbending.,0.1
+The cotton ball is gentle to the touch.,The diamond is the hardest mineral.,0.05
+The velvet fabric feels smooth and soft.,The granite boulder is incredibly tough.,0.1
+The marshmallow is squishy and sweet.,The iron gate is heavy and durable.,0.1
+The sponge is soft and absorbent.,The concrete wall is sturdy and rough.,0.1
+The cloud looks like a soft puff of smoke.,The brick is rough and abrasive.,0.05
+The wool sweater is cozy and warm.,The metal pipe is cold and hard.,0.1
+The plush toy is cuddly and soft.,The glass window is brittle and hard.,0.1
+The fur coat is silky and smooth.,The wooden plank is solid and stiff.,0.1
+The kitten's fur is very soft.,The puppy has a fluffy coat.,0.9
+The hammer is made of hard metal.,The anvil is heavy iron.,0.9
+The kitten's fur is very soft.,The hammer is made of hard metal.,0.05
+The silk sheet is smooth.,The sandpaper is rough and hard.,0.05
+The bread dough is soft and pliable.,The frozen ice block is hard.,0.1
+The blanket is warm and fuzzy.,The ceramic tile is cold and hard.,0.1
+The teddy bear is soft to hug.,The marble statue is hard to the touch.,0.1
+The foam mattress is comfortable.,The stone floor is unforgiving.,0.1
+The sheep's wool is thick and soft.,The titanium rod is incredibly strong.,0.05
+The bubble bath is foamy and light.,The obsidian rock is sharp and glass-like.,0.05

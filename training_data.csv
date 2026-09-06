@@ -1,0 +1,31 @@
+sentence1,sentence2,label
+The quick brown fox jumps over the lazy dog.,A fast fox leaps over a sleepy dog.,0.9
+I love programming in Python.,Python is my favorite coding language.,0.95
+The weather is sunny today.,It is raining heavily outside.,0.1
+Artificial Intelligence is the future.,AI will shape the world of tomorrow.,0.85
+I enjoy playing video games.,I like reading books.,0.3
+The stock market crashed yesterday.,Stocks took a nosedive last night.,0.9
+She is cooking dinner.,He is washing the car.,0.1
+The movie was fantastic.,I really enjoyed the film.,0.9
+My phone battery is dead.,I need to charge my mobile.,0.85
+The cat is sleeping on the sofa.,A kitten naps on the couch.,0.9
+I am learning to play the guitar.,I am practicing the piano.,0.4
+The earth revolves around the sun.,The sun orbits the earth.,0.2
+He runs every morning.,She jogs daily.,0.7
+The coffee is too hot.,This tea is cold.,0.2
+I need to buy groceries.,I'm going to the supermarket.,0.8
+The car is red.,The vehicle is crimson.,0.9
+Fish swim in the water.,Birds fly in the sky.,0.1
+The laptop is expensive.,This computer costs a lot.,0.9
+I am tired.,I feel exhausted.,0.95
+The music is loud.,The volume is high.,0.8
+She is a doctor.,He is a nurse.,0.6
+The building is tall.,The skyscraper is huge.,0.85
+I like apples.,I prefer oranges.,0.5
+The train is late.,The bus is on time.,0.2
+He is writing a letter.,She is reading a book.,0.1
+The internet is slow.,My connection is lagging.,0.9
+I want to travel to Japan.,I plan to visit Tokyo.,0.8
+The dog barked at the mailman.,The canine growled at the postman.,0.85
+I am happy.,I am sad.,0.0
+The room is clean.,The place is messy.,0.0

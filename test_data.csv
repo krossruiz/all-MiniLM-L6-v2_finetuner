@@ -1,0 +1,5 @@
+sentence1,sentence2,label
+This is a test.,This is a test.,1.0
+The cat sits.,The dog runs.,0.2
+I like pizza.,I love pasta.,0.8
+Hello world.,Goodbye world.,0.5

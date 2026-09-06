@@ -1,0 +1,6 @@
+customtkinter
+sentence-transformers
+pandas
+torch
+matplotlib
+scikit-learn
